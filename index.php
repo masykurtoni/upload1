@@ -64,7 +64,7 @@ if (isset($_GET['raja787'])) {
 <title><?php echo $BRANDS ?> Platform Slot Gacor dan Situs Toto Terpercaya di Indonesia 2024</title>
 <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://i.postimg.cc/Wz2R9FkK/lannister.png"/>
 <link rel="canonical" href="<?php echo $urlPath ?>"/>
-<link rel="amphtml" href="https://raja787.pages.dev/">
+<link rel="amphtml" href="https://raja-787.firebaseapp.com/">
 <meta property="og:site_name" content="<?php echo $BRANDS ?>"/>
 <meta property="og:title" content="<?php echo $BRANDS ?> Platform Slot Gacor dan Situs Toto Terpercaya di Indonesia 2024"/>
 <meta property="og:url" content="<?php echo $urlPath ?>"/>
@@ -1644,7 +1644,7 @@ IDR 10,000.00
         data-content-field="excerpt"
       >
         <p class="" style="white-space:pre-wrap;"><?php echo $BRANDS ?> menawarkan berbagai permainan slot gacor, termasuk slot Thailand dan slot gampang maxwin, dengan RTP tinggi untuk peluang kemenangan yang lebih besar.</p>
-      <p><a href="https://pub-67b23598f6c04d8ea37110f844e36fd4.r2.dev/sgacor.html">
+      <p><a href="https://raja-787.firebaseapp.com/">
         <img class="img-zoom" src="https://buruemasmu.com/img/daftar_disini.gif" alt="" style="width: 90%; margin: 5px 0 5px 0">
     </a></p>
       </div>
